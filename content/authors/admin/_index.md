@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. Student in Dairy Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Wisconsin--Madison
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Teaching & learning in animal sciences
+- Educational psychology
+- Sustainable dairy management
 
 education:
   courses:
@@ -44,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'mailto:merickson3@wisc.edu'  # For a direct email link, use "mailto:test@example.org".
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Mary_Grace_Erickson
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?user=ygX3YRwAAAAJ&hl=en&oi=ao
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-8919-2664
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "merickson3@wisc.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
